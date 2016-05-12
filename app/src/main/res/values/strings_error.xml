@@ -1,0 +1,16 @@
+<resources>
+
+    <integer-array name="login_error_code">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </integer-array>
+    <string-array name="login_error_message">
+        <item>该用户未注册</item>
+        <item>用户密码错误</item>
+        <item>用户被锁定</item>
+        <item>用户类型错误</item>
+    </string-array>
+
+</resources>
